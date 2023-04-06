@@ -1,8 +1,8 @@
 # Gitlet Project - A Miniature Version Control System
 
 **UC Berkeley CS61B Project 2** \
-**[Project Specifications](https://sp21.datastructur.es/materials/proj/proj2/proj2)**
-**[Course Calendar - Spring 2021]()**
+**[Course Calendar - Spring 2021](https://sp21.datastructur.es/)** \
+**[Project Specifications](https://sp21.datastructur.es/materials/proj/proj2/proj2)** 
 
 This project is an implementation of a version control system similar to Git called Gitlet. The main goal of this project is to create a system that can track changes to files in a directory, allowing users to save and access different versions of their work over time.
 
